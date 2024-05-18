@@ -70,7 +70,7 @@ class atm:
 
 
 
-#  starting of a program
+#  Program starts here.....
 print("STATE BANK OF INDIA")
 while True:
     print("     Main Menu      ")
